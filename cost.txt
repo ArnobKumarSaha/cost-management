@@ -1,41 +1,41 @@
 
 
 3 December
-300 uber
-220 dinner
+Uber 300
+Dinner 220
 
 4 December
-1150 mach
-150 sobji
+Mach 1150
+Sobji 150
 
 5 December
-20 Badam
-40 Cha puri
-20 Jilapi
-80 dim
-180 sandal
-443 daily shop
+Badam 20
+Cha puri 40
+Jilapi 20
+Dim 80
+Sandal 180
+Daily shop 443
 
 6 December
-1463 daily shop
-50 chotpoti
-50 bakorkhani
-30 cha
+Daily shop 1463
+Chotpoti 50
+Bakorkhani 50
+Cha 30
 
 7 December
-300 misti
-1180 rustic
-130 rikshaw
-60 puri cha
-80 jambura
-1350 gas
-950 haas
-70 kola
-60 khira
+Misti 300
+Rustic 1180
+Rikshaw 130
+Puri cha 60
+Jambura 80
+Gas 1350
+Haas 950
+Kola 70
+Khira 60
 
 9 December
-500 apple
-110 snacks
+Apple 500
+Snacks 110
 Momo 120
 Baklava 160
 Dhone pata 30
@@ -289,7 +289,7 @@ cycle 100
 golla 100
 icecream 80
 auto 180
-dinner 330 (600 back pabo)
+Dinner 330
 
 13 January
 breakfast 180
