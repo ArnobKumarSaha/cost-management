@@ -100,8 +100,6 @@ Basa vara 4320
 Wifi 500
 Moyla 100
 
-19 December
-
 20 December
 Rickshaw 50
 Advanced 4000
@@ -119,7 +117,6 @@ Muri 20
 Cha 40
 Rickshaw 50
 doi 40
-
 
 
 22 December
@@ -401,8 +398,6 @@ egg 80 Bz
 seem 40 Bz
 cha 40 Sn
 
-28 January
-
 29 January
 Rickshaw 180 Tr
 Apple komola 540
@@ -414,9 +409,6 @@ Melamines 120 Ot
 Mishti 940
 Rickshaw 20 Tr
 Cng 220 Tr
-
-31 January
-
 
 1 February
 Cng 450 Tr
@@ -502,8 +494,6 @@ Breakfast 85 Sn
 CNG 400 Tr
 Autos 200 Tr
 
-12-13-14-15 February
-
 16 February
 Breakfast 90 Sn
 Cha 30 Sn
@@ -552,8 +542,6 @@ AC 57000 Ot
 Rickshaw 110 Tr
 Dinner 370
 Marzan 260 Bz
-
-23 February
 
 24 February
 Fuchka 100 Sn
@@ -726,7 +714,6 @@ Misti 160
 Ghuraghuri 500
 Rickshaw 20
 
-27 March
 28 March
 Rickshaw 20 Tr
 Bus 300 Tr
@@ -828,8 +815,6 @@ Rickshaw 100
 Gamcha bari 460 Sn
 Auto 300 Tr
 
-13 April
-14 April
 15 April
 Cng 250 Tr
 Breakfast 300
@@ -853,7 +838,6 @@ Rickshaw 50 Tr
 18 April
 Tomato 60 Bz
 
-19 April
 20 April
 Rickshaw 50 Tr
 Muri 20 Sn
@@ -955,9 +939,4 @@ Kola 150 Fd
 Alu 40 Bz
 Bitter 680 Ot
 Tormuj 130 Sn
-
-
-6 May
-
-
 
