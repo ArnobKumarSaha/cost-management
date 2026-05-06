@@ -64,12 +64,13 @@ Breakfast 145 Fd
 Sobji 100 Bz
 
 Meaning of the <Type>: 
-Tr = Travel
-Tour = Tour
-Fd = Food
-Bz = Bazar
-Sn = Snacks
-Ot = Onetime
-Ex = Extras
+Transport (Tr): Uber, Rickshaw, CNG, Auto, Bus, Train, Bike, Metro
+Groceries (Bz): Mach, Sobji, Murgi, Kola (bulk), oils, vegetables, dairy
+Snacks (Sn): Cha, Misti, street food, fruits eaten as snacks
+OneTime (Ot): Clothing, electronics, household items, medicine, doctor
+Food (Fd): Breakfast, Lunch, Dinner, Milk, Dim
+Utility (Ut): Rent, Wifi, Gas, Bills, Fnf, Moyla
+Extras (Ex): Farewell contributions, Daan, Cake 1950/Sparkle (Dec 23 occasion)
+Tour: Tickets (bridge/guha/jhorna/lake), Hotel, Launch, Cycle, Nepal trip
 
 3) Blank lines

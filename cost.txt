@@ -2,382 +2,372 @@
 
 
 3 December
-Uber 300
-Dinner 220
+Uber 300 Tr
+Dinner 220 Fd
 
 4 December
-Mach 1150
-Sobji 150
+Mach 1150 Bz
+Sobji 150 Bz
 
 5 December
-Badam 20
-Cha puri 40
-Jilapi 20
-Dim 80
-Sandal 180
-Daily shop 443
+Badam 20 Sn
+Cha puri 40 Sn
+Jilapi 20 Sn
+Dim 80 Fd
+Sandal 180 Ot
+Daily shop 443 Bz
 
 6 December
-Daily shop 1463
-Chotpoti 50
-Bakorkhani 50
-Cha 30
+Daily shop 1463 Bz
+Chotpoti 50 Sn
+Bakorkhani 50 Sn
+Cha 30 Sn
 
 7 December
-Misti 300
-Rustic 1180
-Rikshaw 130
-Puri cha 60
-Jambura 80
-Gas 1350
-Haas 950
-Kola 70
-Khira 60
+Misti 300 Sn
+Rustic 1180 Fd
+Rikshaw 130 Tr
+Puri cha 60 Sn
+Jambura 80 Sn
+Gas 1350 Ut
+Haas 950 Bz
+Kola 70 Sn
+Khira 60 Bz
 
 9 December
-Apple 500
-Snacks 110
-Momo 120
-Baklava 160
-Dhone pata 30
+Apple 500 Sn
+Snacks 110 Sn
+Momo 120 Sn
+Baklava 160 Sn
+Dhone pata 30 Bz
 
 10 December
-Breakfast 90
-Cha 20
-Palong shak 50
-Singara jhalmuri 40+20+20
-Pad 110
+Breakfast 90 Fd
+Cha 20 Sn
+Palong shak 50 Bz
+Singara jhalmuri 40+20+20 Sn
+Pad 110 Ot
 
 11 December
-Blender 12780
-Noni 140
-Bati 350
-Riksaw 30
-Amra 20
-Mug + aada 150
+Blender 12780 Ot
+Noni 140 Sn
+Bati 350 Ot
+Riksaw 30 Tr
+Amra 20 Sn
+Mug + aada 150 Ot
 
 12 December
-Misti 700
-Rikshaw 110
-Train 75
-Auto 120
+Misti 700 Sn
+Rikshaw 110 Tr
+Train 75 Tr
+Auto 120 Tr
 
 14 December
-Auto 100
-Cng 300
-Rickshaw 60
-Misti 700
+Auto 100 Tr
+Cng 300 Tr
+Rickshaw 60 Tr
+Misti 700 Sn
 
 15 December
-Cha pauruti 80
-Rickshaw 30
-Misti 700
+Cha pauruti 80 Sn
+Rickshaw 30 Tr
+Misti 700 Sn
 
 16 December
-Nasta 100
-Rickshaw 30
-Apple 130
-Rickshaw 40
-Shakha 2000
-Amitti 140
-Rickshaw 50
-Bus 620
-Cha chips 40
-Rickshaw 60
+Nasta 100 Sn
+Rickshaw 30 Tr
+Apple 130 Sn
+Rickshaw 40 Tr
+Shakha 2000 Ot
+Amitti 140 Sn
+Rickshaw 50 Tr
+Bus 620 Tr
+Cha chips 40 Sn
+Rickshaw 60 Tr
 
 17 December
-Rickshaw 40
-Cha cake 30
-Kola +Shak tumi 75
-Misti kumra + khira ami 100
-Dinner 170
+Rickshaw 40 Tr
+Cha cake 30 Sn
+Kola +Shak tumi 75 Bz
+Misti kumra + khira ami 100 Bz
+Dinner 170 Fd
 
 18 December
-Dhoniya 20
-Mocha 20
-Rickshaw 40
-
-Basa vara 4320
-Wifi 500
-Moyla 100
+Dhoniya 20 Bz
+Mocha 20 Bz
+Rickshaw 40 Tr
+Basa vara 4320 Ut
+Wifi 500 Ut
+Moyla 100 Ut
 
 20 December
-Rickshaw 50
-Advanced 4000
-Kima cha 100
-Riskshaw 110 + 50 + 50
-Tel piyaj 270
+Rickshaw 50 Tr
+Advanced 4000 Ot
+Kima cha 100 Sn
+Riskshaw 110 + 50 + 50 Tr
+Tel piyaj 270 Bz
 
 21 December
-Rickshaw 30+ 40
-Polashi 40
-Makhanu 40
-Golap 30
-Velpuri 40
-Muri 20
-Cha 40
-Rickshaw 50
-doi 40
-
+Rickshaw 30+ 40 Tr
+Polashi 40 Sn
+Makhanu 40 Bz
+Golap 30 Ot
+Velpuri 40 Sn
+Muri 20 Sn
+Cha 40 Sn
+Rickshaw 50 Tr
+doi 40 Bz
 
 22 December
-Rickshaw 20
-Morich 40
-Tomato 20 T
+Rickshaw 20 Tr
+Morich 40 Bz
 
 23 December
-Rickshaw 70
-Cake 1950
-Sparkle 50
+Rickshaw 70 Tr
+Cake 1950 Ex
+Sparkle 50 Ex
 
 24 December
-Chanachur 200
-Bosta 60
-
+Chanachur 200 Sn
+Bosta 60 Ot
 
 25 December
-Basa change 4260
-Rickshaw 90
-Darwan 200+100
-Bill 300
-Rong 2000
-Lunch 200 T
-Juta 250
-Induction 7500
-Rickshaw 40 T
-Cha 10
-Mop, jhuri, brush 900
-Dim, broccoli 80
-Basa vara 39000
-Net 800
+Basa change 4260 Ut
+Rickshaw 90 Tr
+Darwan 200+100 Ot
+Bill 300 Ut
+Rong 2000 Ot
+Juta 250 Ot
+Induction 7500 Ot
+Cha 10 Sn
+Mop, jhuri, brush 900 Ot
+Broccoli 80 Bz
+Basa vara 39000 Ut
+Net 800 Ut
 
 26 December
-Snacks 285
-Rivkshaw 60
-Uber 750
-Chips 20
+Snacks 285 Sn
+Rivkshaw 60 Tr
+Uber 750 Tr
+Chips 20 Sn
 
 27 December
-Breakfast 185
-CNG 2800
-Cup 160
-Lunch + dinner 1200
+Breakfast 185 Fd
+CNG 2800 Tr
+Cup 160 Ot
+Lunch + dinner 1200 Fd
 
 28 December
-Vara 4000
-Juice 200
-Lunch 650
-Dinner 780
+Vara 4000 Ut
+Juice 200 Sn
+Lunch 650 Fd
+Dinner 780 Fd
 
 29 December
-Cng 4000
-Lunch 520
-Bridge ticket 80
-Pitha 60
-Guha ticket 80
-Cha boroi 40
-Jhorna ticket 40
-Bike 200
-Coffee 60
-Dinner 420
-Hotel 1000
+Cng 4000 Tr
+Lunch 520 Fd
+Bridge ticket 80 Tour
+Pitha 60 Sn
+Guha ticket 80 Tour
+Cha boroi 40 Sn
+Jhorna ticket 40 Tour
+Bike 200 Tr
+Coffee 60 Sn
+Dinner 420 Fd
+Hotel 1000 Tour
 
 30 December
-Lunch 410
-Auto 20
-Lake ticket 40
-Cha 40
-Bike 800
-Auto 10
-Fnf 600
+Lunch 410 Fd
+Auto 20 Tr
+Lake ticket 40 Tour
+Cha 40 Sn
+Bike 800 Tr
+Auto 10 Tr
+Fnf 600 Ut
 
 31 December
-Uber 530
-Breakfast 105
-Cha 10
-Rickshaw 60
-Mattress 11400 + 700
-Snacks 80
-Furniture 34500 + 3600
-Multiplag 1200
-Murgi 650
-Bazar 200+120+170
-
+Uber 530 Tr
+Breakfast 105 Fd
+Cha 10 Sn
+Rickshaw 60 Tr
+Mattress 11400 + 700 Ot
+Snacks 80 Sn
+Furniture 34500 + 3600 Ot
+Multiplag 1200 Ot
+Murgi 650 Bz
+Bazar 200+120+170 Bz
 
 1 January
-Chocolate 240
-Sobji 120
+Chocolate 240 Sn
+Sobji 120 Bz
 
 2 January
-Chicken fry 165
-Biscuit yogurt 190
-Oil egg 1623
-Sobji 120
-Kola 50
+Chicken fry 165 Sn
+Biscuit yogurt 190 Sn
+Oil egg 1623 Bz
+Sobji 120 Bz
+Kola 50 Sn
 
 3 January
-Somucha 60
-Roll 60
-Drinko 30
-Bowal 960
-Telapia 210
-Peyaj rosun 170
-Amloki 60
-Sobji 130
-Bakorkhani 50
-Alu 40
-
+Somucha 60 Sn
+Roll 60 Sn
+Drinko 30 Sn
+Bowal 960 Bz
+Telapia 210 Bz
+Peyaj rosun 170 Bz
+Amloki 60 Sn
+Sobji 130 Bz
+Bakorkhani 50 Sn
+Alu 40 Bz
 
 4 January
-Breakfast 95
-Rickshaw 40
-Towel 280
-Shoe 1500
-Capsicum 50
-Papaya 90
-Cha 10
-Daily shopping 430
-Rickshaw 60
-Cha 20
-Doctor 100+1200
-Rickshaw 50 + 30
-Tests 5600
+Breakfast 95 Fd
+Rickshaw 40 Tr
+Towel 280 Ot
+Shoe 1500 Ot
+Capsicum 50 Bz
+Papaya 90 Sn
+Cha 10 Sn
+Daily shopping 430 Bz
+Rickshaw 60 Tr
+Cha 20 Sn
+Doctor 100+1200 Ot
+Rickshaw 50 + 30 Tr
+Tests 5600 Ot
 
 5 January
-Sobji 40
-Snacks 50
-Gajor 20
-Rickshaw 20
-Doi 380
-Dinner 100
+Sobji 40 Bz
+Snacks 50 Sn
+Gajor 20 Bz
+Rickshaw 20 Tr
+Doi 380 Bz
+Dinner 100 Fd
 
 6 January
-Nachos 160
-Photo 80
-Rickshaw 40
-Kapor 600+700
-Amloki 130
-Rickshaw 30 + 30
+Nachos 160 Sn
+Photo 80 Ot
+Rickshaw 40 Tr
+Kapor 600+700 Ot
+Amloki 130 Sn
+Rickshaw 30 + 30 Tr
 
 7 January
-pitha 80
-sailor 5335
-jacket 3289
-rickshaw 40
+pitha 80 Sn
+sailor 5335 Ot
+jacket 3289 Ot
+rickshaw 40 Tr
 
 8 January
-doctor 800
-cake 1325
-candle 40
-suji 40
+doctor 800 Ot
+cake 1325 Sn
+candle 40 Ot
+suji 40 Bz
 
 9 January
-swapno 225+60
-sweater 190
-rickshaw 20
-dinner 580
-
+swapno 225+60 Bz
+sweater 190 Ot
+rickshaw 20 Tr
+dinner 580 Fd
 
 10 January
-cha 200
+cha 200 Sn
 
 11 January
-shutki 650
-achar 300
+shutki 650 Bz
+achar 300 Bz
 
 12 January
-cycle 100
-golla 100
-icecream 80
-auto 180
-Dinner 330
+cycle 100 Tour
+golla 100 Sn
+icecream 80 Sn
+auto 180 Tr
+Dinner 330 Fd
 
 13 January
-breakfast 180
-rickshaw 20
-snacks 85
-kola 80
-boroi 70
-milk 90
-chaler gura 110
-Sofa 14000+1800
+breakfast 180 Fd
+rickshaw 20 Tr
+snacks 85 Sn
+kola 80 Sn
+boroi 70 Sn
+milk 90 Fd
+chaler gura 110 Bz
+Sofa 14000+1800 Ot
 
 14 January
-milk 200
+milk 200 Fd
 
 16 January
-chips 20
+chips 20 Sn
 
 17 January
-Chicket bucket 400
-Cha 60
-Boroi 70
-Rickshaw 30
-Haas 1450
+Chicket bucket 400 Sn
+Cha 60 Sn
+Boroi 70 Sn
+Rickshaw 30 Tr
+Haas 1450 Bz
 
 18 January
-Rickshaw 30
-Lazpharma 2100
-Fruit 50
-Rickshaw 50
-Metro 500
-Rickshaw 70
-Launch 455
-Shakha 500
-Dhupkathi 280
-Chui 70
-Spoon 280
-Rickshaw 80
-Khejur 800
-Cha 40
-Rickshaw 40
-Murgi 490
-Prawn 700
-Sobji 140+40
-Bel 50
-
+Rickshaw 30 Tr
+Lazpharma 2100 Ot
+Fruit 50 Sn
+Rickshaw 50 Tr
+Metro 500 Tr
+Rickshaw 70 Tr
+Launch 455 Tour
+Shakha 500 Ot
+Dhupkathi 280 Ot
+Chui 70 Sn
+Spoon 280 Ot
+Rickshaw 80 Tr
+Khejur 800 Sn
+Cha 40 Sn
+Rickshaw 40 Tr
+Murgi 490 Bz
+Prawn 700 Bz
+Sobji 140+40 Bz
+Bel 50 Sn
 
 19 January
-Sobji 60
-Chips 20
-Train 1966
+Sobji 60 Bz
+Chips 20 Sn
+Train 1966 Tr
 
 20 January
-Chips 20
+Chips 20 Sn
 
 21 January
-Bazar 210
+Bazar 210 Bz
 
 22 January
-Sobji 80
-Rickshaw 30
-Nokshi pitha 30
-Rickshaw 40
-Khelar bill
-Bel 90
-Chips 15
-Achar 30
-Glass 500
-Boroi 110
-Motorshuti 50
+Sobji 80 Bz
+Rickshaw 30 Tr
+Nokshi pitha 30 Sn
+Rickshaw 40 Tr
+Khelar bill Ut
+Bel 90 Sn
+Chips 15 Sn
+Achar 30 Bz
+Glass 500 Ot
+Boroi 110 Sn
+Motorshuti 50 Bz
 
 23 January
-Rickshaw 160
-Daan 20
-Gas stove 7900
-Train 1766
-Uber 1300
-Gift 1000
-Uber 680
+Rickshaw 160 Tr
+Daan 20 Ex
+Gas stove 7900 Ot
+Train 1766 Tr
+Uber 1300 Tr
+Gift 1000 Ot
+Uber 680 Tr
 
 24 January
-Rickahw 60
-Achar 30
-Vaja pura 30
-Rickshaw 30
-Gola 50
-Luchi sobji 100
-Riclshaw 60
+Rickahw 60 Tr
+Achar 30 Bz
+Vaja pura 30 Sn
+Rickshaw 30 Tr
+Gola 50 Sn
+Luchi sobji 100 Sn
+Riclshaw 60 Tr
 
 25 January
 Box tob 710 Ot
@@ -405,16 +395,16 @@ Apple komola 540 Sn
 
 30 January
 Rickshaw 200 Tr
-Vuna 550
+Vuna 550 Sn
 Melamines 120 Ot
-Mishti 940
+Mishti 940 Sn
 Rickshaw 20 Tr
 Cng 220 Tr
 
 1 February
 Cng 450 Tr
 Rickshaw 40 Tr
-Doctor 2100 Tr
+Doctor 2100 Ot
 Rickshaw 20 Tr
 Mishti 110 Sn
 Chador 1500 Ot
@@ -432,7 +422,7 @@ Cha 20 Sn
 Vajapura 55 Sn
 Kola 90 Bz
 Swapno 260 Bz
-Dim 80 Bz
+Dim 80 Fd
 Palong 20 Bz
 Vegi 240 Bz
 
@@ -450,7 +440,7 @@ Tiramisu 710 Sn
 Fulkopi 30 Bz
 Mach 660 Bz
 Rickshaw 30 Tr
-Dim 248 Bz
+Dim 248 Fd
 
 7 February
 Rickshaw 20 Tr
@@ -467,7 +457,6 @@ Hata 50 Ot
 Blender 4500 Ot
 Bat 480 Ot
 Chal 470 Bz
-
 
 8 February
 Breakfast 95 Sn
@@ -520,7 +509,7 @@ Peyaj 90 Bz
 Katla 790 Bz
 Rita 600 Bz
 Murgi 400 Bz
-Milk 240 Bz
+Milk 240 Fd
 Rickshaw 30 Tr
 
 20 February
@@ -564,7 +553,7 @@ Seem 100 Bz
 
 27 February
 Tomato 110 Bz
-Dim 289 Bz
+Dim 289 Fd
 Tickets 3853 Tr
 
 28 February
@@ -580,7 +569,6 @@ Sobji 80 Bz
 Peyaj 80 Bz
 Alu 180 Bz
 Rickshaw 50 Tr
-
 
 1 March
 Hair 100 Ot
@@ -600,7 +588,7 @@ Chal 1100 Bz
 Murgi 1350 Bz
 Coke 360 Bz
 Sidetable 4000 Ot
-Rickshaw 80
+Rickshaw 80 Tr
 
 ---
 
@@ -616,7 +604,6 @@ Rickshaw 110 Tr
 Aarong 1764 Ot
 Juice 80 Sn
 Rickshaw 50 Tr
-
 
 5 March
 Rickshaw 20 Tr
@@ -682,7 +669,7 @@ Marzan 440 Bz
 Pathao 240 Tr
 Water 20 Sn
 Train 1766 Tr
-Tour 96000 Ot
+Nepal 96000 Tour
 
 22 March
 Pathao 300 Tr
@@ -738,7 +725,6 @@ Rickshaw 50 Tr
 Cha 15 Sn
 Rickshaw 130 Tr
 
-
 31 March
 Cha 20 Sn
 
@@ -752,7 +738,7 @@ Dim 141 Bz
 Drinko 50 Sn
 Toast 20 Sn
 Rickshaw 50 Sn
-Dim 210 Bz
+Dim 210 Fd
 
 3 April
 Tormuz 280 Bz
@@ -778,7 +764,7 @@ Aam 50 Sn
 Burger 1000 Sn
 Peyaj 100 Bz
 Alu 40 Bz
-Dim 110 Bz
+Dim 110 Fd
 Ata 60 Bz
 
 7 April
@@ -799,9 +785,8 @@ Rickshaw 40 Tr
 
 10 April
 Cha 20 Sn
-Farewell 568
-Big farewell 2176
-
+Farewell 568 Ex
+Big farewell 2176 Ex
 
 11 April
 Rickshaw 60 Tr
@@ -832,7 +817,7 @@ Rickshaw 40 Tr
 
 17 April
 Anaros 40 Sn
-Meena 382
+Meena 382 Bz
 Bookshelf 2800 Ot
 Rickshaw 50 Tr
 
@@ -853,7 +838,7 @@ Rickshaw 50 Tr
 21 April
 Train 340 Tr
 Chal 90 Bz
-Milk 100 Bz
+Milk 100 Fd
 
 22 April
 Borboti 30 Bz
@@ -874,19 +859,18 @@ Movie 1100 Ot
 Rickshaw 50 Tr
 Badhai 1000 Ot
 Rickshaw 50 Tr
-Khabar 660
+Khabar 660 Fd
 Bbq moshla 80 Bz
 Anaros 40 Sn
 Tormuj 100 Sn
 Bit 60 Sn
-
 
 27 April
 Cha 30 Sn
 Sharma 150 Sn
 Bel 80 Sn
 Bakorkhani 50 Sn
-Kola 70
+Kola 70 Sn
 Fulkopi 40 Bz
 Rui 1400 Bz
 Koi 340 Bz
@@ -894,9 +878,8 @@ Macher dim 150 Bz
 Murgi 1570 Bz
 Tel 1550 Bz
 Bazar 640 Bz
-Milk 200 Bz
+Milk 200 Fd
 Rickshaw 30 Tr
-
 
 28 April
 Rickshaw 50 Tr
@@ -918,7 +901,6 @@ Drinko 30 Sn
 Ice-cream 60 Sn
 Motor 220 Tr
 
-
 2 May
 Fuchka 50 Sn
 Ice cream 280 Ot
@@ -926,7 +908,7 @@ Ice cream 280 Ot
 3 May
 Rickshaw 30 Tr
 Train 440 Tr
-Rickshaw 120Tr
+Rickshaw 120 Tr
 
 5 May
 Breakfast 145 Fd
@@ -940,4 +922,3 @@ Kola 150 Fd
 Alu 40 Bz
 Bitter 680 Ot
 Tormuj 130 Sn
-
