@@ -142,7 +142,7 @@ Induction 7500 Ot
 Cha 10 Sn
 Mop, jhuri, brush 900 Ot
 Broccoli 80 Bz
-Basa vara 39000 Ut
+Basa vara 59000 Ut
 Net 800 Ut
 
 26 December
@@ -343,7 +343,6 @@ Sobji 80 Bz
 Rickshaw 30 Tr
 Nokshi pitha 30 Sn
 Rickshaw 40 Tr
-Khelar bill Ut
 Bel 90 Sn
 Chips 15 Sn
 Achar 30 Bz
@@ -430,6 +429,7 @@ Vegi 240 Bz
 stove setup 1300 Ot
 Motorshuti 70 Bz
 Chips 40 Sn
+Rent 24400 Ut
 
 5 February
 Train 868 Tr
@@ -609,6 +609,7 @@ Rickshaw 50 Tr
 Rickshaw 20 Tr
 Kushon 3900 Ot
 Rickshaw 30 Tr
+Rent 24280 Ut
 
 6 March
 Rickshaw 130 Tr
@@ -749,6 +750,7 @@ Train 868 Tr
 
 4 April
 Napit 100 Ot
+Rent 24350 Ut
 
 5 April
 Range 620 Ot
@@ -922,3 +924,8 @@ Kola 150 Fd
 Alu 40 Bz
 Bitter 680 Ot
 Tormuj 130 Sn
+
+6 May
+Rent 24350 Ut
+...
+

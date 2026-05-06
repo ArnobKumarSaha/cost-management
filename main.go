@@ -29,11 +29,13 @@ type DailyExpenses struct {
 // CategoryMap maps abbreviations to full names
 var CategoryMap = map[string]string{
 	"Tr": "Transport",
+	"Bz": "Groceries",
 	"Sn": "Snacks",
-	"Bz": "Bazar",
-	"Rt": "House Rent",
-	"Ot": "Other",
-	// Add more categories here as needed
+	"Ot": "OneTime",
+	"Fd": "Food",
+	"Ut": "Utility",
+	"Ex": "Extras",
+	"To": "Tour",
 }
 
 func main() {
