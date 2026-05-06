@@ -1,5 +1,6 @@
 
 
+
 3 December
 Uber 300
 Dinner 220
@@ -400,7 +401,7 @@ cha 40 Sn
 
 29 January
 Rickshaw 180 Tr
-Apple komola 540
+Apple komola 540 Sn
 
 30 January
 Rickshaw 200 Tr
@@ -424,7 +425,7 @@ Rickshaw 40 Tr
 
 2 February
 Uber 200 Tr
-Breakfast 295
+Breakfast 295 Fd
 Cha 20 Sn
 
 3 February
@@ -436,7 +437,7 @@ Palong 20 Bz
 Vegi 240 Bz
 
 4 February
-stove setup 1300
+stove setup 1300 Ot
 Motorshuti 70 Bz
 Chips 40 Sn
 
@@ -453,7 +454,7 @@ Dim 248 Bz
 
 7 February
 Rickshaw 20 Tr
-Lunch 1830
+Lunch 1830 Fd
 Rickshaw 40 Tr
 Laptop 90000 Ot
 Anaros 30 Sn
@@ -473,10 +474,10 @@ Breakfast 95 Sn
 Rickshaw 70 Tr
 Photocopy 110 Ot
 Seeds 1220 Ot
-Lunch 850
-Srawberry 650
+Lunch 850 Fd
+Srawberry 650 Sn
 Rickshaw 80 Tr
-Trademill 61100
+Trademill 61100 Ot
 
 9 February
 Cha 30 Sn
@@ -502,11 +503,11 @@ Vajapura 30 Sn
 17 February
 Sobji 100 Bz
 Nasta 20 Sn
-Recharge 50
+Recharge 50 Ot
 
 18 February
 Rickshaw 60 Tr
-Bill 380
+Bill 380 Ut
 Nasta 50 Sn
 Muri 80 Bz
 Vajapura 40 Sn
@@ -540,7 +541,7 @@ Rickshaw 130 Tr
 Dhaka bedding 1000 Ot
 AC 57000 Ot
 Rickshaw 110 Tr
-Dinner 370
+Dinner 370 Fd
 Marzan 260 Bz
 
 24 February
@@ -562,18 +563,18 @@ Marzan 195 Bz
 Seem 100 Bz
 
 27 February
-Tomato 110
-Dim 289
-Tickets 3853
+Tomato 110 Bz
+Dim 289 Bz
+Tickets 3853 Tr
 
 28 February
 Rickshaw 90 Tr
-Doctor 1200
+Doctor 1200 Ot
 Rickshaw 100 Tr
 Vaja 160 Sn
 Tormuj 250 Sn
 Arong 949 Ot
-Juice 80
+Juice 80 Sn
 Fruits 230 Sn
 Sobji 80 Bz
 Peyaj 80 Bz
@@ -604,78 +605,78 @@ Rickshaw 80
 ---
 
 3 March
-Halim 1200
-Keragi 1560
-Beguni 700
-Gajor 30
-Morich 30
+Halim 1200 Ex
+Keragi 1560 Ex
+Beguni 700 Ex
+Gajor 30 Bz
+Morich 30 Bz
 
 4 March
-Rickshaw 110
-Aarong 1764
-Juice 80
-Rickshaw 50
+Rickshaw 110 Tr
+Aarong 1764 Ot
+Juice 80 Sn
+Rickshaw 50 Tr
 
 
 5 March
-Rickshaw 20
-Kushon 3900
-Rickshaw 30
+Rickshaw 20 Tr
+Kushon 3900 Ot
+Rickshaw 30 Tr
 
 6 March
-Rickshaw 130
-Cha 40
+Rickshaw 130 Tr
+Cha 40 Sn
 
 7 March
-Rickahaw 70
-Rickshaw 30
-3pc 3000
-Auto 40
-Shirt 850
-sunglass 480
-Charger 300
-Kakra 160
-Oats 650
-Macaroni 50
-Doi 70
-Chocolate 340
-Rickshaw 70
-Cng 80
-Auto 50
+Rickahaw 70 Tr
+Rickshaw 30 Tr
+3pc 3000 Ot
+Auto 40 Tr
+Shirt 850 Ot
+sunglass 480 Ot
+Charger 300 Ot
+Kakra 160 Bz
+Oats 650 Bz
+Macaroni 50 Bz
+Doi 70 Bz
+Chocolate 340 Bz
+Rickshaw 70 Tr
+Cng 80 Tr
+Auto 50 Tr
 
 8 March
-Shraddho 7000
-Picchi 1000
+Shraddho 7000 Ex
+Picchi 1000 Ex
 
 9 March
-Auto 200
-Auto 150
-Rickshaw 60
+Auto 200 Tr
+Auto 150 Tr
+Rickshaw 60 Tr
 
 10 March
-Cng 180
-Rickshaw 140
-Rickshaw 50
+Cng 180 Tr
+Rickshaw 140 Tr
+Rickshaw 50 Tr
 
 11 March
-Rickshaw 60
-Mango 30
-Book 1240
-Cha 60
-Rickshaw 60
+Rickshaw 60 Tr
+Mango 30 Sn
+Book 1240 Ot
+Cha 60 Sn
+Rickshaw 60 Tr
 
 12 March
-Doi 380
-Chocolate 70
-Rickshaw 40
-Hub 2200
-Pant 450
-Jhuri 220
-Cover 500
-Rickshaw 30
+Doi 380 Bz
+Chocolate 70 Bz
+Rickshaw 40 Tr
+Hub 2200 Ot
+Pant 450 Ot
+Jhuri 220 Ot
+Cover 500 Ot
+Rickshaw 30 Tr
 
 13 March
-Marzan 440
+Marzan 440 Bz
 
 14 March
 Pathao 240 Tr
@@ -707,19 +708,19 @@ Ice cream 150 Sn
 26 March
 grapes 400 Ot
 Bus 300 Tr
-Rickshaw 50
-Water 20
-Boroi 25
-Misti 160
-Ghuraghuri 500
-Rickshaw 20
+Rickshaw 50 Tr
+Water 20 Sn
+Boroi 25 Sn
+Misti 160 Sn
+Ghuraghuri 500 Ot
+Rickshaw 20 Tr
 
 28 March
 Rickshaw 20 Tr
 Bus 300 Tr
 Fruits 550 Sn
 Bus 80 Tr
-Tormuj 220
+Tormuj 220 Sn
 Van 50 Tr
 
 29 March
@@ -774,7 +775,7 @@ Rickshaw 30 Tr
 
 6 April
 Aam 50 Sn
-Burger 1000
+Burger 1000 Sn
 Peyaj 100 Bz
 Alu 40 Bz
 Dim 110 Bz
@@ -788,8 +789,8 @@ Cha 10 Sn
 Muri 20 Sn
 Cha 50 Sn
 Bookshelf 1000 Ot
-Dinner 440
-Tormuj 100
+Dinner 440 Fd
+Tormuj 100 Sn
 
 9 April
 Cha 30 Sn
@@ -805,11 +806,11 @@ Big farewell 2176
 11 April
 Rickshaw 60 Tr
 Bus 620 Tr
-Nasta 80
-Rickshaw 40
-Cng 200
-Auto 80
-Rickshaw 100
+Nasta 80 Sn
+Rickshaw 40 Tr
+Cng 200 Tr
+Auto 80 Tr
+Rickshaw 100 Tr
 
 12 April
 Gamcha bari 460 Sn
@@ -817,12 +818,12 @@ Auto 300 Tr
 
 15 April
 Cng 250 Tr
-Breakfast 300
-Cha 20
+Breakfast 300 Fd
+Cha 20 Sn
 Fan 3800 Ot
-Kola 70
-Swapno 225
-Rickshaw 30
+Kola 70 Sn
+Swapno 225 Bz
+Rickshaw 30 Tr
 
 16 April
 Cha 40 Sn
@@ -846,8 +847,8 @@ Tape 140 Ot
 Mirror 2500 Ot
 Tormuj 150 Sn
 Tomato 80 Bz
-Rosun 110
-Rickshaw 50
+Rosun 110 Bz
+Rickshaw 50 Tr
 
 21 April
 Train 340 Tr
@@ -893,7 +894,7 @@ Macher dim 150 Bz
 Murgi 1570 Bz
 Tel 1550 Bz
 Bazar 640 Bz
-Milk 200
+Milk 200 Bz
 Rickshaw 30 Tr
 
 

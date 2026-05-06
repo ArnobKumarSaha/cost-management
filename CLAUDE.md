@@ -49,3 +49,27 @@ Rickshaw 30 Tr
 Cha 20 Sn
 ```
 Lines starting with `<day> <month-abbr>` start a new day. Expense lines are `<item name> <amount> <category-abbr>`. Category abbreviations are mapped in `CategoryMap` in [main.go](main.go#L30).
+
+
+## cost.txt structure
+This cost.txt file is of 3 type of lines: 
+
+1)
+<date> <Month>
+5 May
+
+2) 
+<Item> <Money> <Type>
+Breakfast 145 Fd
+Sobji 100 Bz
+
+Meaning of the <Type>: 
+Tr = Travel
+Tour = Tour
+Fd = Food
+Bz = Bazar
+Sn = Snacks
+Ot = Onetime
+Ex = Extras
+
+3) Blank lines
